@@ -35,3 +35,22 @@
 
 > Language : JAVA
 
+
+
+---
+
+### 이슈 사항
+
+![image](https://github.com/solfany/baekjoon-Java/assets/123814718/51d95bd3-88ed-40d2-b37b-1983263acee3)
+
+테스트 겸 푼 문제인데 컴파일 에러가 왕창 났다.. 
+
+해결 방법은 하단의 코드 처럼 클래스 명은 "Main"으로 지정 후 제출 하면 된다...!
+```java
+public class Main {
+	public static void main(String[] args) {
+  
+	}
+}
+```
+
