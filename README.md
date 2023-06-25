@@ -12,7 +12,7 @@
 
 ## By solfany
 
-> 문의 사항은 메일 solfany1999@gmail.com  
+> 메일 solfany1999@gmail.com  
 >
 > 깃 허브 블로그 https://solfany.github.io/
 
