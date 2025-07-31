@@ -1,4 +1,4 @@
-package joon01;
+package backjoon;
 
 import java.util.Scanner;
 

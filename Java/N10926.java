@@ -1,5 +1,3 @@
-2023 WED 07, made by Solfany
-
 package backjoon;
 
 import java.util.Scanner;
